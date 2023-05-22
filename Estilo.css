@@ -1,0 +1,48 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+}
+
+table {
+    margin: auto;
+}
+
+ tr, td {
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    border: 1px solid black;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.yellow {
+    background-color: yellow;
+    color: red;
+}
+
+#red {
+    color: red;
+}
+
+.purple {
+    background-color: #d2b1e2;
+    color: darkblue;
+}
+
+p {
+    text-align: center;
+}
+
+.gray {
+    background-color: lightgray;
+}
